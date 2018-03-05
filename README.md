@@ -1,3 +1,3 @@
 # studio
 
-//buongiorno siamo arrivati
+//buongiorno siamo arrivati, che cazzo volete?
